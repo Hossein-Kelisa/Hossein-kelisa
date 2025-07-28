@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Hossein
 
-I'm a passionate full Stack web developer. I recently graduated from HackYourFuture.
+I am a junior full-stack web developer. I finished a 7-month coding course at [HackYourFuture](https://hackyourfuture.net).
+This course teaches teamwork, writing clean code, and real projects.
+I like making web apps that are easy to use and look nice.
+I enjoy turning ideas into simple and smooth websites.
 
 ## 🧠 What I'm Learning
 - HTML, CSS, JavaScript
