@@ -5,7 +5,7 @@ This course teaches teamwork, writing clean code, and real projects.
 I like making web apps that are easy to use and look nice.
 I enjoy turning ideas into simple and smooth websites.
 
-![Coding Animation](./1/svg)![Uploading 1.svg…]()
+![Coding Animation](./1/svg)
 
 
 ---
