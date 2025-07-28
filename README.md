@@ -5,7 +5,10 @@ This course teaches teamwork, writing clean code, and real projects.
 I like making web apps that are easy to use and look nice.
 I enjoy turning ideas into simple and smooth websites.
 
-**==============================**
+![Coding Animation](https://camo.githubusercontent.com/ed7cc4e5c48cf2f6c3e1c46fa4f4bfccdb1b3c4dfb0ac6fb0061dcad875e8a27/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6861706969692f696d6167652f75706c6f61642f76313637393330353837382f6165336a6a636e316478746d396734c727562622e737667)
+
+
+---
 
 ## 🧠 What I'm Learning
 - HTML, CSS, JavaScript
