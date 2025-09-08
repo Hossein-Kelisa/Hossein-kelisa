@@ -30,15 +30,19 @@ Curious, creative, and always learning — with a passion for full-stack develop
 
 ### 🔧 Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=green)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=purple)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
 ![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro&logoColor=yellow)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
+
 
 
 ---
@@ -73,10 +77,13 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Hossein.kelisa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-kelisa)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-kelisa)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hosseinkelisa.com)
 
+---
+✨ **Fun fact:** When I’m not coding, you’ll find me exploring Dutch culture 🇳🇱,  
+learning new languages 🗣️, or enjoying coffee ☕ and gym 💪🏼 .  
 
 ---
 
-> 🗣️ "Learning never stops — every line of code brings me closer to my goal."  
-
+> 🗣️ "Learning never stops — every line of code brings me closer to my goal 👨🏻‍💻"  
