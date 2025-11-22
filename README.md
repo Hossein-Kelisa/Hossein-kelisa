@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hossein
 
-I am a junior [Full-stack](https://certificates.hackyourfuture.nl/VTXW4HZA) web developer.  
+I am a [Full-stack](https://certificates.hackyourfuture.nl/VTXW4HZA) web developer.  
 I completed a 7-month coding course at [HackYourFuture](https://hackyourfuture.net), focused on teamwork, writing clean code, and building real projects.  
 
 I enjoy creating web apps that are easy to use and visually appealing.  
